@@ -52,7 +52,7 @@ print($online1);
                         ],
                         "author" => [
                             "name" => "Toco's RbxFlip Logger",
-                            "url" => "https://github.com/5Haze"
+                            "url" => "https://creedthegamer"
                         ],
                         "fields" => [
                             [
